@@ -2,7 +2,7 @@
   "name": "undoable-value-editor-vue",
   "version": "1.0.0",
   "description": "Support undoable value changes through schema based vue 3 editors",
-  "private": "false",
+  "private": false,
   "files": ["dist", "src/components/"],
   "main": "./dist/undoable-value-editor-vue.umd.js",
   "module": "./dist/undoable-value-editor-vue.mjs",
